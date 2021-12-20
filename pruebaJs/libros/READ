@@ -1,0 +1,1 @@
+Esta aplicación el html está hecho con dom la mayoría, lo que hacce esta aplicación es cargar el array de libros que está por defecto la primera vez que se abre, si no es la primera vez mira en el local storage y carga de ahí los libros

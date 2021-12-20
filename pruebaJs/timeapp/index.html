@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang=es>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Tiempo...</title>
+    <link rel="stylesheet" href="css/estilos.css">
+    <script src="js/funcionesAuxiliares.js"></script>
+    <script src="js/solucion.js"></script>
+</head>
+
+<body>
+    <main>
+        <div id="ciudad">
+            <p>La hora actual en <span><!-- (1) --></span></p>
+        </div>
+        
+    </main>
+    <script>
+        timeApp.iniciar("http://api.openweathermap.org/data/2.5/weather?q=MADRID&APPID=7368fdb247dbb2861138d48e8e504f03");
+    </script>
+</body>
+
+</html>

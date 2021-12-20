@@ -1,0 +1,4 @@
+Para que funcione la aplicación debe usarse un servidor, en mi caso lo hice con XAMP, así funciona sin problemas.
+Se debe cargar la url del localhost con el puerto que tengais puesto en el XAMP, por ejemplo en mi caso la url para ir a la carpeta era:
+http://localhost:8080/dashboard/timeapp/
+El puerto es el que tengais puesto para escuchar en el XAMP y a partir de áhí donde tengais la carpeta.
